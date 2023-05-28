@@ -1,4 +1,25 @@
-p {background-color: lightcoral; font-family:Verdana, DejaVu, Sans,sans-serif;}
+/*Second excercise*/
+
+h1{text-align: center;}
+.odd{background-color: lightcoral; font-family:Verdana, DejaVu, Sans,sans-serif;}
+.cool{font-size: 24px;}
 #number02{color: blue; font-size: 36px;}
 .number03{font-size:24px}
 #number04{background-color: lightgreen; font-weight: bold; font-size:24px}
+
+/*Third excercise*/
+
+button{font-size: 28px;font-family:Helvetica, 'Times New Roman', sans-serif}
+.button01{color: white;background-color: black;}
+.button02{background-color: yellow;}
+
+/*Fourth excercise*/
+
+.avatar.proportioned {width:300px; height: auto;}
+.avatar.distorted {width: 200px; height: 400px;}
+
+/*Fifth exercise*/
+
+.container .text{background-color: yellow;
+    color: red;font-size: 20px; 
+    text-align: center;}
